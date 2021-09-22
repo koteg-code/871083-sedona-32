@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Viktoriya Popova](https://up.htmlacademy.ru/htmlcss/32/user/871083).
-* Наставник: `Маргарита Попова`.
+* Наставник: [Маргарита Попова](https://htmlacademy.ru/profile/lipsum).
 
 ---
 
